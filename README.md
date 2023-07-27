@@ -10,7 +10,7 @@ Lets build a full stack application to call Stable Diffusion AI model. We will f
 
 
 ## Demo
-[ view live app here](https://main.d32ou2x1stz40z.amplifyapp.com/)
+
 
 ![](documents/demo-text-to-image.gif)
 
